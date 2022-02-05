@@ -18,11 +18,48 @@ Grading Policy
 
 Students are encouraged to work together on problem sets and laboratory experiment analysis, but must prepare write-ups for these assignments individually. Students must work independently on exams. Grades will be distributed as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Six Problem Sets | 10% |
-| Laboratory Experiments | 30% |
-| Three Exams (including Final) | 60% (20% each) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Six Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Exams (including Final)
+{{< tdclose >}}
+{{< tdopen >}}
+60% (20% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Laboratory Grading
 ------------------
