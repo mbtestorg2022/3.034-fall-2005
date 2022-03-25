@@ -21,10 +21,10 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1_sol))
+([PDF]({{< baseurl >}}/resources/pset1_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ Problem Set 1 (![This resource may not render correctly in a screen reader.](/im
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset2_sol))
+([PDF]({{< baseurl >}}/resources/pset2_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Practice Set A ([PDF]({{< baseurl >}}/resources/practicea))
 Practice Set B ([PDF]({{< baseurl >}}/resources/practiceb))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practiceb_sol))
+([PDF]({{< baseurl >}}/resources/practiceb_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Practice Set B ([PDF]({{< baseurl >}}/resources/practiceb))
 Practice Set C ([PDF]({{< baseurl >}}/resources/practicec))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practicec_sol))
+([PDF]({{< baseurl >}}/resources/practicec_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
