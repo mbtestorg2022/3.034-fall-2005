@@ -4,6 +4,7 @@ description: This resource provides introduction on the life at the interface an
   also provides the extra reading material for the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-034-organic-biomaterials-chemistry-fall-2005/6cb6d05e8cbebd704a97636911fdbbbb_intro.pdf
 file_type: application/pdf
+parent_uid: 63ead6cd-0293-e6da-93d2-c960154ce537
 resourcetype: Document
 title: intro.pdf
 uid: 6cb6d05e-8cbe-bd70-4a97-636911fdbbbb

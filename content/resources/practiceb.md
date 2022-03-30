@@ -5,6 +5,7 @@ description: This resource contains problem statement to Show the coupling chemi
   check the students understanding of course material.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-034-organic-biomaterials-chemistry-fall-2005/040d93910e3d77f8d7a2e29fd90f55a7_practiceb.pdf
 file_type: application/pdf
+parent_uid: 7e41756b-b1e1-741e-5715-5fd511c0ef9b
 resourcetype: Document
 title: practiceb.pdf
 uid: 040d9391-0e3d-77f8-d7a2-e29fd90f55a7
